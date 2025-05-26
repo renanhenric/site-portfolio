@@ -1,0 +1,240 @@
+
+
+<!DOCTYPE html>
+<!--[if lt IE 9 ]><html class="no-js oldie" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="no-js oldie ie9" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+<head>
+
+    <!--- basic page needs
+    ================================================== -->
+    <meta charset="utf-8">
+    <title>Blog | Leonardo Dalvi Alvarenga</title>
+    <meta name="description" content="Meu Blog.">
+    <meta name="author" content="Leonardo Dalvi Alvarenga">
+
+    <!-- mobile specific metas
+    ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSS
+    ================================================== -->
+    <link rel="stylesheet" href="static/blog/css/base.c6286fc8a67d.css">
+    <link rel="stylesheet" href="static/blog/css/vendor.9c7c2371d999.css">
+    <link rel="stylesheet" href="static/blog/css/main.a50a349d388b.css">
+
+    <!-- script
+    ================================================== -->
+    <script src="static/blog/js/modernizr.c6537b1adb7e.js"></script>
+    <script src="static/blog/js/pace.min.874d8be9cd6d.js"></script>
+
+    <!-- favicons
+    ================================================== -->
+    <link rel="shortcut icon" href="static/blog/images/favicon.b68a492bcb32.ico" type="image/x-icon">
+    <link rel="icon" href="static/blog/images/favicon.b68a492bcb32.ico" type="image/x-icon">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2BPGKXMRYY"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-2BPGKXMRYY');
+    </script>
+
+</head>
+
+
+<body id="top">
+
+    <!-- header
+    ================================================== -->
+    <header class="s-header">
+
+        <nav class="header-nav-wrap">
+            <ul class="header-nav">
+                <li><a href="index.html" title="Início">Início</a></li>
+                <li><a href="index.html#about" title="Sobre">Sobre</a></li>
+                <li><a href="index.html#works" title="Protfolio">Portfolio</a></li>
+                <li class="current"><a href="blog" title="Blog">Blog</a></li>
+                <li><a href="index.html#contact" title="Contato">Contato</a></li>
+            </ul>
+        </nav>
+
+        <a class="header-menu-toggle" href="blog#0"><span>Menu</span></a>
+
+    </header> <!-- end s-header -->
+
+    
+
+    <!-- page header
+    ================================================== -->
+    <section class="page-header page-hero" style="background-image:url(static/blog/images/blog-bg.0f7cee676dd1.jpg);">
+
+        <div class="row page-header__content">
+
+            <div id="particles-js"></div>
+            
+            
+
+            <article class="col-full">
+
+                <div class="page-header__info">
+                    <div class="page-header__cat">
+                        <a href="https://leonardodalvi.dev.br/blog/category/ciencia-de-dados/">Ciência de Dados</a>
+                    </div>
+                    <div class="page-header__date">
+                        12 de Novembro de 2021 às 00:00
+                    </div>
+                </div>
+                
+                <h1 class="page-header__title">
+                    <a href="https://leonardodalvi.dev.br/blog/post/medias-aritmeticas-com-python/" title="">
+                        Médias Aritméticas com Python
+                    </a>
+                </h1>
+                 A m&eacute;dia &eacute; a medida de posi&ccedil;&atilde;o (ou tend&ecirc;ncia central) mais conhecida e comumente utilizada para come&ccedil;ar a verificar o comportamento dos dados.<br><br>N&atilde;o existe um s&oacute;&nbsp;tipo de m&eacute;dia. Temos v&aacute;rios tipos de …
+                <p>
+                    <a href="https://leonardodalvi.dev.br/blog/post/medias-aritmeticas-com-python/" class="btn btn--stroke page-header__btn">Leia Mais</a>
+                </p>
+
+            </article>
+
+            
+        
+        </div>
+
+    </section> <!-- end page-header -->
+
+
+    <!-- blog
+    ================================================== -->
+    <section class="blog-content-wrap">
+
+        <div class="row blog-content">
+            <div class="col-full">
+
+                <div class="blog-list block-1-2 block-tab-full">
+                    
+                    
+                    
+                    <article class="col-block">
+                        
+                        <div class="blog-date">
+                            <a href="https://leonardodalvi.dev.br/blog/post/valuation-quanto-vale-sua-empresa/">9 de Novembro de 2021</a>
+                        </div>  
+                        
+                        <h2 class="h01"><a href="https://leonardodalvi.dev.br/blog/post/valuation-quanto-vale-sua-empresa/">Valuation: quanto vale sua empresa?</a></h2>
+                        <p>
+                             Voc&ecirc; sabe quanto vale sua empresa?&nbsp;Em algum momento da vida da sua empresa, &eacute; bem prov&aacute;vel que voc&ecirc; necessite dessa informa&ccedil;&atilde;o.<br><br>Justamente para identificar o valor do seu neg&oacute;cio &eacute; que existem os&nbsp;m&eacute;todos de&nbsp;valuation.<br>…
+                        </p>
+
+                        <div class="blog-cat">
+                            <a href="https://leonardodalvi.dev.br/blog/category/business-intelligence/">Business Intelligence</a>
+                        </div>
+
+                    </article>
+
+                    
+                    
+                    <article class="col-block">
+                        
+                        <div class="blog-date">
+                            <a href="https://leonardodalvi.dev.br/blog/post/quem-sou-eu/">8 de Novembro de 2021</a>
+                        </div>  
+                        
+                        <h2 class="h01"><a href="https://leonardodalvi.dev.br/blog/post/quem-sou-eu/">Quem sou eu? E o que é este blog?</a></h2>
+                        <p>
+                             Por alguma&nbsp;raz&atilde;o desconhecida, escolha ou acaso, voc&ecirc; veio parar&nbsp;neste blog. E nada mais conveniente do que vir a este post primeiro, onde pretendo deixar claro o que voc&ecirc; ir&aacute; encontrar por aqui. Mas, antes, deixe eu me apresentar.<br><br>Meu nome &eacute; Leonardo …
+                        </p>
+
+                        <div class="blog-cat">
+                            <a href="https://leonardodalvi.dev.br/blog/category/outros/">Outros</a>
+                        </div>
+
+                    </article>
+
+                    
+
+                </div> <!-- end blog-list -->
+
+            </div> <!-- end col-full -->
+        </div> <!-- end blog-content -->
+
+        
+
+    </section> <!-- end blog-content-wrap -->
+
+    
+
+    <!-- footer
+    ================================================== -->
+    <footer>
+        <div class="row">
+            <div class="col-full">
+
+                <ul class="footer-social">
+					<li><a href="https://www.linkedin.com/in/leonardodalvi/" target="_blank">
+                        <i class="im im-linkedin" aria-hidden="true"></i>
+                        <span>LinkedIn</span>
+                    </a></li>
+					<li><a href="https://github.com/leonardodalvi/" target="_blank">
+                        <i class="im im-github" aria-hidden="true"></i>
+                        <span>Github</span>
+                    </a></li>
+                    <li><a href="https://www.instagram.com/leonardodalvi/" target="_blank">
+                        <i class="im im-instagram" aria-hidden="true"></i>
+                        <span>Instagram</span>
+                    </a></li>
+                    <li><a href="https://www.facebook.com/leonardodalvi/" target="_blank">
+                        <i class="im im-facebook" aria-hidden="true"></i>
+                        <span>Facebook</span>
+                    </a></li>
+                    <li><a href="https://twitter.com/leonardodalvi/" target="_blank">
+                        <i class="im im-twitter" aria-hidden="true"></i>
+                        <span>Twitter</span>
+                    </a></li>
+                </ul>
+                    
+            </div>
+        </div>
+
+        <div class="row footer-bottom">
+
+            <div class="col-twelve">
+                <div class="copyright">
+                    <span>© Copyright Leonardo Dalvi Alvarenga</span> 
+                </div>
+
+                <div class="go-top">
+                <a class="smoothscroll" title="Voltar ao topo" href="blog#top"><i class="im im-arrow-up" aria-hidden="true"></i></a>
+                </div>
+            </div>
+
+        </div> <!-- end footer-bottom -->
+
+    </footer> <!-- end footer -->
+
+
+    <div id="preloader"> 
+        <div id="loader"></div>
+    </div>
+
+
+    <!-- Java Script
+    ================================================== -->
+    <script src="static/blog/js/jquery-3.2.1.min.c9f5aeeca3ad.js"></script>
+    <script src="static/blog/js/plugins.856f73cd3e04.js"></script>
+    <script src="static/blog/js/main.225b960b97c3.js"></script>
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <script type="text/javascript">
+        particlesJS("particles-js", {"particles":{"number":{"value":120,"density":{"enable":true,"value_area":1000}},"color":{"value":"#ffffff"},"shape":{"type":"circle","stroke":{"width":0,"color":"#000000"},"polygon":{"nb_sides":5},"image":{"src":"img/github.svg","width":100,"height":100}},"opacity":{"value":0.3,"random":false,"anim":{"enable":false,"speed":1,"opacity_min":0.1,"sync":false}},"size":{"value":3,"random":true,"anim":{"enable":false,"speed":40,"size_min":0.1,"sync":false}},"line_linked":{"enable":true,"distance":150,"color":"#ffffff","opacity":0.5,"width":1},"move":{"enable":true,"speed":6,"direction":"none","random":false,"straight":false,"out_mode":"out","bounce":false,"attract":{"enable":false,"rotateX":600,"rotateY":1200}}},"interactivity":{"detect_on":"canvas","events":{"onhover":{"enable":true,"mode":"repulse"},"onclick":{"enable":true,"mode":"push"},"resize":true},"modes":{"grab":{"distance":400,"line_linked":{"opacity":1}},"bubble":{"distance":400,"size":40,"duration":2,"opacity":8,"speed":3},"repulse":{"distance":200,"duration":0.4},"push":{"particles_nb":4},"remove":{"particles_nb":2}}},"retina_detect":true});var count_particles, stats, update; stats = new Stats; stats.setMode(0); stats.domElement.style.position = 'absolute'; stats.domElement.style.left = '0px'; stats.domElement.style.top = '0px'; document.body.appendChild(stats.domElement); count_particles = document.querySelector('.js-count-particles'); update = function() { stats.begin(); stats.end(); if (window.pJSDom[0].pJS.particles && window.pJSDom[0].pJS.particles.array) { count_particles.innerText = window.pJSDom[0].pJS.particles.array.length; } requestAnimationFrame(update); }; requestAnimationFrame(update);;
+    </script>
+
+</body>
+
+</html>
