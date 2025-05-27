@@ -2,7 +2,7 @@
 
 Este repositório contém o código e estrutura do meu portfólio profissional online.
 
-📍 Acesse o site: [renanhenrique.dev.br](https://renanhenrique.dev.br) 
+📍 Acesse o site: [renandev.netlify.app](https://renanhdev.netlify.app/) 
 
 ---
 ---
